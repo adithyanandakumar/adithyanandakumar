@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently learning [MERN stack](https://www.geeksforgeeks.org/mern-stack/)
 
-- 🚵‍♀️ Hobbies **Reading, gaming, football and coding**
+- 🚵‍♀️ Hobbies **Reading, gaming, movies, football and coding**
 
 - 👨‍💻 All of my projects are available at [adithyanandakumar.me/me](adithyanandakumar.me/me)
 
