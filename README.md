@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyanandakumar" alt="adithyanandakumar" /></a> </p>
 
-- 🔭 I'm currently learning [MERN stack](https://www.geeksforgeeks.org/mern-stack/)
+- 🔭 I'm currently learning [Android development](https://en.wikipedia.org/wiki/Android_software_development)
 
 - 🚵‍♀️ Hobbies **Reading, gaming, movies, football and coding**
 
