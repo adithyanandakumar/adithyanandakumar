@@ -1,13 +1,13 @@
 <h1 align="center">Hey all 👋, I'm Adithya</h1>
-<h3 align="center">Interested in frontend development 💻 and game development 🎮</h3>
+<h3 align="center">Interested in backend development 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanandakumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyanandakumar" alt="adithyanandakumar" /></a> </p>
 
-- 🔭 I'm currently learning [Android development](https://en.wikipedia.org/wiki/Android_software_development)
+- 🔭 I'm currently learning [Backend technologies](https://en.wikipedia.org/wiki/Android_software_development)
 
-- 🚵‍♀️ Hobbies **Reading, gaming, movies, football and coding**
+- 🚵‍♀️ Hobbies **Gaming, reading, movies and coding**
 
 - 👨‍💻 All of my projects are available at [adithyanandakumar.me/me](adithyanandakumar.me/me)
 
@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/adithya-nandakumar](www.linkedin.com/in/adithya-nandakumar)
 
-- ⚡ Fun fact **I don't like Apple projects (maybe because I am broke), but I look upto Steve Jobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
